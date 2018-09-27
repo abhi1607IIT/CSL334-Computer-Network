@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.5)  27 SEP 2018 06:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.5)  27 SEP 2018 09:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -970,7 +970,83 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip67
 )
-(./Assign4.aux)
+(./Assign4.aux
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+
+LaTeX Warning: Label `fig:PING' multiply defined.
+
+)
 \openout1 = `Assign4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1084,78 +1160,323 @@ LaTeX Info: Redefining \nameref on input line 24.
 
 \c__siunitx_mathsf_int=\count325
 \c__siunitx_mathtt_int=\count326
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<../Set1/q4/a.png, id=131, 754.82pt x 69.25874pt>
+File: ../Set1/q4/a.png Graphic file (type png)
+<use ../Set1/q4/a.png>
+Package pdftex.def Info: ../Set1/q4/a.png  used on input line 40.
+(pdftex.def)             Requested size: 341.43437pt x 31.32782pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--42
+
+ []
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+<../Set1/q5/a.png, id=133, 772.8875pt x 63.23625pt>
+File: ../Set1/q5/a.png Graphic file (type png)
+<use ../Set1/q5/a.png>
+Package pdftex.def Info: ../Set1/q5/a.png  used on input line 48.
+(pdftex.def)             Requested size: 341.43437pt x 27.93498pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../Set1/q4/a.png> <../Set1
+/q5/a.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<../Set1/q8/a.png, id=148, 722.7pt x 358.33875pt>
+File: ../Set1/q8/a.png Graphic file (type png)
+<use ../Set1/q8/a.png>
+Package pdftex.def Info: ../Set1/q8/a.png  used on input line 59.
+(pdftex.def)             Requested size: 341.43437pt x 169.29408pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--61
+
+ []
+
+<../Set1/q9/a.png, id=149, 730.73pt x 233.87375pt>
+File: ../Set1/q9/a.png Graphic file (type png)
+<use ../Set1/q9/a.png>
+Package pdftex.def Info: ../Set1/q9/a.png  used on input line 65.
+(pdftex.def)             Requested size: 341.43437pt x 109.2783pt.
+<../Set1/q10/a.png, id=150, 730.73pt x 529.98pt>
+File: ../Set1/q10/a.png Graphic file (type png)
+<use ../Set1/q10/a.png>
+Package pdftex.def Info: ../Set1/q10/a.png  used on input line 76.
+(pdftex.def)             Requested size: 341.43437pt x 247.635pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--78
+
+ []
+
+[2 <../Set1/q8/a.png> <../Set1/q9/a.png>]
+<../Set1/q11/a.png, id=159, 742.775pt x 199.74625pt>
+File: ../Set1/q11/a.png Graphic file (type png)
+<use ../Set1/q11/a.png>
+Package pdftex.def Info: ../Set1/q11/a.png  used on input line 82.
+(pdftex.def)             Requested size: 341.43437pt x 91.82037pt.
+<../Set1/q12/a.png, id=160, 776.9025pt x 147.55125pt>
+File: ../Set1/q12/a.png Graphic file (type png)
+<use ../Set1/q12/a.png>
+Package pdftex.def Info: ../Set1/q12/a.png  used on input line 88.
+(pdftex.def)             Requested size: 341.43437pt x 64.84619pt.
+<../Set1/q12/b.png, id=161, 764.8575pt x 378.41376pt>
+File: ../Set1/q12/b.png Graphic file (type png)
+<use ../Set1/q12/b.png>
+Package pdftex.def Info: ../Set1/q12/b.png  used on input line 94.
+(pdftex.def)             Requested size: 341.43437pt x 168.92192pt.
+ [3 <../Set1/q10/a.png> <../Set1/q11/a.png> <../Set1/q12/a.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--112
+
+ []
+
+<../Set2/q1/a.png, id=172, 766.865pt x 189.70876pt>
+File: ../Set2/q1/a.png Graphic file (type png)
+<use ../Set2/q1/a.png>
+Package pdftex.def Info: ../Set2/q1/a.png  used on input line 118.
+(pdftex.def)             Requested size: 341.43437pt x 84.46498pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+[4 <../Set1/q12/b.png> <../Set2/q1/a.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+<../Set2/q4/a.png, id=182, 762.85pt x 213.79875pt>
+File: ../Set2/q4/a.png Graphic file (type png)
+<use ../Set2/q4/a.png>
+Package pdftex.def Info: ../Set2/q4/a.png  used on input line 130.
+(pdftex.def)             Requested size: 341.43437pt x 95.68983pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--132
+
+ []
+
+<../Set3/q1/a.png, id=183, 1276.77pt x 115.43124pt>
+File: ../Set3/q1/a.png Graphic file (type png)
+<use ../Set3/q1/a.png>
+Package pdftex.def Info: ../Set3/q1/a.png  used on input line 140.
+(pdftex.def)             Requested size: 341.43437pt x 30.86742pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+<../Set3/q1/b.png, id=184, 1371.1225pt x 770.88pt>
+File: ../Set3/q1/b.png Graphic file (type png)
+<use ../Set3/q1/b.png>
+Package pdftex.def Info: ../Set3/q1/b.png  used on input line 149.
+(pdftex.def)             Requested size: 341.43437pt x 191.95496pt.
+[5 <../Set2/q4/a.png> <../Set3/q1/a.png>]
+<../Set3/q1/c.png, id=193, 1371.1225pt x 770.88pt>
+File: ../Set3/q1/c.png Graphic file (type png)
+<use ../Set3/q1/c.png>
+Package pdftex.def Info: ../Set3/q1/c.png  used on input line 155.
+(pdftex.def)             Requested size: 341.43437pt x 191.95496pt.
+<../Set3/q2/a.png, id=194, 1264.725pt x 91.34125pt>
+File: ../Set3/q2/a.png Graphic file (type png)
+<use ../Set3/q2/a.png>
+Package pdftex.def Info: ../Set3/q2/a.png  used on input line 165.
+(pdftex.def)             Requested size: 341.43437pt x 24.65828pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+
+ []
+
+<../Set3/q2/b.png, id=195, 1371.1225pt x 770.88pt>
+File: ../Set3/q2/b.png Graphic file (type png)
+<use ../Set3/q2/b.png>
+Package pdftex.def Info: ../Set3/q2/b.png  used on input line 173.
+(pdftex.def)             Requested size: 341.43437pt x 191.95496pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+
+ []
+
+[6 <../Set3/q1/b.png> <../Set3/q1/c.png> <../Set3/q2/a.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--191
+
+ []
+
+<../Set3/q4/a1.png, id=206, 1278.7775pt x 43.16125pt>
+File: ../Set3/q4/a1.png Graphic file (type png)
+<use ../Set3/q4/a1.png>
+Package pdftex.def Info: ../Set3/q4/a1.png  used on input line 194.
+(pdftex.def)             Requested size: 341.43437pt x 11.52394pt.
+<../Set3/q4/a2.png, id=207, 1284.8pt x 53.19875pt>
+File: ../Set3/q4/a2.png Graphic file (type png)
+<use ../Set3/q4/a2.png>
+Package pdftex.def Info: ../Set3/q4/a2.png  used on input line 200.
+(pdftex.def)             Requested size: 341.43437pt x 14.13736pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+<../Set5/q1/a.png, id=208, 1371.1225pt x 770.88pt>
+File: ../Set5/q1/a.png Graphic file (type png)
+<use ../Set5/q1/a.png>
+Package pdftex.def Info: ../Set5/q1/a.png  used on input line 213.
+(pdftex.def)             Requested size: 341.43437pt x 191.95496pt.
+[7 <../Set3/q2/b.png> <../Set3/q4/a1.png> <../Set3/q4/a2.png>]
+<../Set4/a.png, id=220, 1266.7325pt x 99.37125pt>
+File: ../Set4/a.png Graphic file (type png)
+<use ../Set4/a.png>
+Package pdftex.def Info: ../Set4/a.png  used on input line 219.
+(pdftex.def)             Requested size: 341.43437pt x 26.78358pt.
+<../Set4/b.png, id=221, 1288.815pt x 91.34125pt>
+File: ../Set4/b.png Graphic file (type png)
+<use ../Set4/b.png>
+Package pdftex.def Info: ../Set4/b.png  used on input line 225.
+(pdftex.def)             Requested size: 341.43437pt x 24.19833pt.
+<../Set4/c.png, id=222, 1260.71pt x 237.88875pt>
+File: ../Set4/c.png Graphic file (type png)
+<use ../Set4/c.png>
+Package pdftex.def Info: ../Set4/c.png  used on input line 231.
+(pdftex.def)             Requested size: 341.43437pt x 64.42682pt.
+<../Set4/d.png, id=223, 1260.71pt x 107.40125pt>
+File: ../Set4/d.png Graphic file (type png)
+<use ../Set4/d.png>
+Package pdftex.def Info: ../Set4/d.png  used on input line 237.
+(pdftex.def)             Requested size: 341.43437pt x 29.0872pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--247
+
+ []
+
+File: ../Set5/q1/a.png Graphic file (type png)
+<use ../Set5/q1/a.png>
+Package pdftex.def Info: ../Set5/q1/a.png  used on input line 250.
+(pdftex.def)             Requested size: 341.43437pt x 191.95496pt.
+[8 <../Set5/q1/a.png> <../Set4/a.png> <../Set4/b.png> <../Set4/c.png> <../Set4/
+d.png>]
+<../Set5/q2/a.png, id=238, 704.6325pt x 75.28125pt>
+File: ../Set5/q2/a.png Graphic file (type png)
+<use ../Set5/q2/a.png>
+Package pdftex.def Info: ../Set5/q2/a.png  used on input line 258.
+(pdftex.def)             Requested size: 341.43437pt x 36.47804pt.
+<../Set5/q2/b.png, id=239, 776.9025pt x 71.26625pt>
+File: ../Set5/q2/b.png Graphic file (type png)
+<use ../Set5/q2/b.png>
+Package pdftex.def Info: ../Set5/q2/b.png  used on input line 264.
+(pdftex.def)             Requested size: 341.43437pt x 31.32025pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--271
+
+ []
+
+<../Set5/q2/c.png, id=240, 1294.8375pt x 107.40125pt>
+File: ../Set5/q2/c.png Graphic file (type png)
+<use ../Set5/q2/c.png>
+Package pdftex.def Info: ../Set5/q2/c.png  used on input line 275.
+(pdftex.def)             Requested size: 341.43437pt x 28.32025pt.
+<../Set5/q3/a.png, id=241, 1371.1225pt x 770.88pt>
+File: ../Set5/q3/a.png Graphic file (type png)
+<use ../Set5/q3/a.png>
+Package pdftex.def Info: ../Set5/q3/a.png  used on input line 283.
+(pdftex.def)             Requested size: 341.43437pt x 191.95496pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--285
+
+ []
+
+[9 <../Set5/q2/a.png> <../Set5/q2/b.png> <../Set5/q2/c.png>] [10 <../Set5/q3/a.
+png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
  (./Assign4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package rerunfilecheck Info: File `Assign4.out' has not changed.
+(rerunfilecheck)             Checksum: B04DE9006BCCF7240DC1B5999D6E4E5C;1558.
 
 
-Package rerunfilecheck Warning: File `Assign4.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: Checksums for `Assign4.out':
-(rerunfilecheck)             Before: 1973626DBBE8F532A3C0A38805B92E21;1398
-(rerunfilecheck)             After:  B04DE9006BCCF7240DC1B5999D6E4E5C;1558.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
  ) 
 Here is how much of TeX's memory you used:
- 28141 strings out of 492982
- 562593 string characters out of 6134897
- 608565 words of memory out of 5000000
- 31297 multiletter control sequences out of 15000+600000
+ 28552 strings out of 492982
+ 568232 string characters out of 6134897
+ 607655 words of memory out of 5000000
+ 31659 multiletter control sequences out of 15000+600000
  541571 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,6n,56p,10385b,732s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.17} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.16} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.15} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.14} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.13} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.12} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.11} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.10} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.9} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.8} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.7} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.6} has been referenced but does not exist, 
-replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fo
-nts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sfrm1728.pfb>
-Output written on Assign4.pdf (2 pages, 59821 bytes).
+ 62i,7n,56p,10385b,732s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
+fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfrm1728.pfb>
+Output written on Assign4.pdf (10 pages, 1762870 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 500000)
- 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 296 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
 
