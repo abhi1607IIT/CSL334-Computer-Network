@@ -1,0 +1,25 @@
+long s addr :)
+s addr contains the IP address of the computer.(32 bit long or 4 bytes)
+short sin family :)
+It represents the address family(AF XXX).
+There are two way to communicate:
+1)AF INET :) Communication across the net.
+2)AF UNIX :) Local Communication on the same computer
+u short sin port :)
+This represents the port number used.And if 0-chooses in unused port at ran-
+dom.It should be in Network Byte Order.
+There are two types of ordering:most significant bytes(Network Byte Order), or
+least significant byte.Some machine store their number internally in Network
+Bytes Order and some don’t.Some of the number must be in Network Byte Or-
+der and not in Host Byte Order.Then it must be coverted as follow:
+unsigned long htonl(unsigned long hostlong); //host to network long(32 bits)
+unsigned short htons(unsigned short hostshort);//host to network short(16 bits)
+unsigned long ntohl(unsigned long netlong);//network to host long
+unsigned short ntohs(unsigned short netshort);//network to host short
+struct in addr sin addr:)
+It represents the Computer’s Address(Network Byte order).If INADDR ANY is
+uses the local address of the computer.
+char sin zero :)
+It used to enable conversion between struct sockaddr in* and strust sockaddr*.
+sin zero should be set to all zeros.
+1

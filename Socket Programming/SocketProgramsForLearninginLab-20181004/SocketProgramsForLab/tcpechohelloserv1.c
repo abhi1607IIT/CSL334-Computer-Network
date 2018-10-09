@@ -33,7 +33,7 @@ main(int argc, char **argv)
 	pid_t				childpid;
 	socklen_t			clilen;
 	struct sockaddr_in	cliaddr, servaddr;
-	
+
 	if ((listenfd = socket(AF_INET, SOCK_STREAM, 0)) == -1) {
 		perror("socket error"); 
 		exit(1);

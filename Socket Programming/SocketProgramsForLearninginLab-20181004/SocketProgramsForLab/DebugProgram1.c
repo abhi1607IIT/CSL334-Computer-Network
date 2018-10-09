@@ -40,11 +40,7 @@ main(int argc, char **argv)
 
 	sockfd = socket(AF_INET, SOCK_STREAM, 0);
 
-	// if((sockfd = socket(AF_INET, SOCK_STREAM, 0))==0) 
-	// 	perror("Socket Creation Error");
-
 	bzero(&servaddr, sizeof(servaddr));
-	servaddr.sin_family = AF_INET;
 	servaddr.sin_port = htons(SERV_PORT);
 	inet_pton(AF_INET, argv[1], &servaddr.sin_addr);
 

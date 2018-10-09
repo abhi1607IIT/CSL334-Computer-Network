@@ -37,19 +37,19 @@ main(int argc, char **argv)
 
 	if (argc != 2)
 		perror("usage: tcpcli <IPaddress>");
-	if((sockfd = socket(AF_INET, SOCK_STREAM, 0))==0) 
+
+	if(sockfd = socket(AF_INET, SOCK_STREAM, 0)==0) 
 		perror("Socket Creation Error");
 
-		bzero(&servaddr, sizeof(servaddr));
-		servaddr.sin_family = AF_INET;
-		servaddr.sin_port = htons(SERV_PORT);
-		inet_pton(AF_INET, argv[1], &servaddr.sin_addr);
-		connect(sockfd, (struct sockaddr *) &servaddr, sizeof(servaddr));
-	while(stdin){
-		str_cli(stdin, sockfd);		/* do it all */
-		printf("%d\n", sockfd);
-	}
+	bzero(&servaddr, sizeof(servaddr));
+	servaddr.sin_family = AF_INET;
+	servaddr.sin_port = htons(SERV_PORT);
+	inet_pton(AF_INET, argv[1], &servaddr.sin_addr);
+
+	connect(sockfd, (struct sockaddr *) &servaddr, sizeof(servaddr));
+
+	str_cli(stdin, sockfd);		/* do it all */
+
 	exit(0);
-	
 }
 
